@@ -21,7 +21,7 @@ dependencies:
     git:
       url: https://github.com/gsshop-microsvc/wakelock.git
       ref: main
-      path: ../wakelock_windows
+      path: ./wakelock_windows
 
 dev_dependencies:
   flutter_test:
